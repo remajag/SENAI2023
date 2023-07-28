@@ -12,9 +12,9 @@ Trata-se de uma linguagem de marcação universal.
 
 Abaixo temos o header padrão de um arquivo xml:
 
-'''
+```
 <?xml version="1.0"?>
-'''
+```
 
 E o código de exemplo dado na aula:
 ```
