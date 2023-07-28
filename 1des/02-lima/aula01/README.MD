@@ -5,10 +5,11 @@
 Tags do HTML:
 Tags em Português quer dizer marcação.
 A linguagem HTML possui várias TAGS, entre elas:
-... <html>
-... <head>
-... <body>
-
+```
+<html>
+<head>
+<body>
+```
 A maioria das tags precisa ser aberta e fechada:
 Exemplo:
 <html>
