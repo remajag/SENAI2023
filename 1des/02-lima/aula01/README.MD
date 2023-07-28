@@ -41,5 +41,33 @@ Tag ```<p>``` é utilizada para parágrafo:
 <p> Segundo parágrafo </p>
 ```
 
+# Exemplo da Aula 01
+
+Na aula foi pedido aos alunos começarem a redigir o Curriculum em HTML, como abaixo:
+
+```
+<html>
+<h1> Curriculum Vitae </h1>
+
+<h3> Dados Pessoais </h3>
+<p> Nome: Augusto Ferreira da Silva </p>
+<p> Endereço: Rua 2 numero 40 </p>
+<p> Telefone: 11-9166-7770 </p>
+
+<h3> Experiência Profissional </h3>
+<b> ICB Brasil </b>
+<p> 2003 - 2013 Trabalhei como especialista em Sistemas Operacionais AIX </p>
+<b> SIGMA Brasil </b>
+<p> 2016 - 2019 Trabalhei como Especialista de Suporte a Sistemas </p> 
+
+<h3> Experiência Acadêmica </h3>
+<p> 2002 - Graduado em Tecnologia em Informática pelo Instituto Paulista </p>
+<p> 2009 - Pós Graduado em Práticas do PMI - Gerenciamento de Projetos  no SENAC - Campinas </p>
+</html>
+```
+
+
+
+
 
 
