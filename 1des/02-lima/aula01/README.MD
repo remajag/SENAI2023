@@ -12,32 +12,34 @@ A linguagem HTML possui várias TAGS, entre elas:
 ```
 A maioria das tags precisa ser aberta e fechada:
 Exemplo:
+
+```
 <html>
 </html>
-
+```
 Outras não:
-
+```
 <meta>
 <br>
-
+```
 Tags do tipo h servem para o cabeçalho e existem 6 níveis:
-
+```
 <h1> <h2> <h3> <h4> <h5> e <h6>
-
+```
 Exemplo:
-
+```
 <h1>Título de nível 1</h1>
 <h2>Título de nível 2</h2>
 <h3>Título de nível 3</h3>
 <h4>Título de nível 4</h4>
 <h5>Título de nível 5</h5>
 <h6>Título de nível 6</h6>
-
-Tag <p> é utilizada para parágrafo:
-
+```
+Tag ```<p>``` é utilizada para parágrafo:
+```
 <p> Primeiro parágrafo </p>
 <p> Segundo parágrafo </p>
-
+```
 
 
 
