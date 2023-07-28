@@ -17,7 +17,7 @@ Abaixo temos o header padrão de um arquivo xml:
 '''
 
 E o código de exemplo dado na aula:
-
+```
 <pizzaria>
 <cardapio>
 
