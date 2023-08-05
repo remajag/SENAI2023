@@ -38,4 +38,10 @@
   $ ls -R /tmp (ENTER)<br>
   $ ls -la (ENTER)<br>
 
-   
+## rmdir <br>
+  O comando rmdir serve para se remover um diretório (pasta) que esteja vazia<br>
+  sintaxe: $ rmdir dir1 (ENTER)<br>
+  Outros exemplos e variações:<br>
+  $ rmdir /tmp/dir1 (ENTER)<br>
+  Observação: Se houverem arquivos ou subdiretórios criados dentro do diretório, a remoção não ocorrerá.
+  
