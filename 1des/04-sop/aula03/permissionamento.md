@@ -18,5 +18,13 @@ No exemplo abaixo temos 3 arquivos que são do usuário "Professor", cujo grupo 
 -rw-r--r-- 1 Professor senai   28 Aug  5 10:38 permissionamento.md<br>
 -rw-r--r-- 1 Professor senai 1588 Aug  5 10:38 Linux_comandos_básicos.md<br>
 
+Abaixo a tabela de valores de permissionamento:
+
+|Permissão|Decimal|Letra|
+|-|:-:|:-:|
+|Read|4|r|
+|Write|2|w|
+|eXecute|1|x|
+
 
 
