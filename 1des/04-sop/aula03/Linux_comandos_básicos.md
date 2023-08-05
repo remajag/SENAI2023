@@ -1,10 +1,10 @@
 # Linux Comandos Básicos
 
-* pwd <br>
+## pwd <br>
   O comando pwd mostra o caminho atual, onde você está.<br>
   sintaxe: $ pwd <enter>
 
-* cd <br>
+## cd <br>
   O comando cd serve para se navegar entre a estrutura de diretórios (pastas) no Linux. Essa estrutura é definida por um caminho a partir do diretório raiz (/). <br>
   sintaxe: $ cd /caminho <br>
   - Exemplos de caminhos:
@@ -15,7 +15,7 @@
   .. (diretório anterior)<br>
   ~ (diretório home do usuário atual)<br>
   
-* mkdir <br>
+## mkdir <br>
   O comando mkdir serve para se criar um diretório (pasta)
   sintaxe: $ mkdir dir1<br>
   Outros exemplos e variações:<br>
@@ -26,7 +26,7 @@
   $ mkdir -p /home/lucas/docs/cpf<br>
   $ mkdir -p /documentos/faturas/consorcio/pagas<br>
 
-* ls <br>
+## ls <br>
   O comando ls server para se listar o conteúdo de um diretório, como arquivos e subdiretórios, suas permissões e características como o dono (owner), o tamanho (size) etc.<br>
   sintaxe: $ ls <enter><br>
   - Outros exemplos e variações:<br>
