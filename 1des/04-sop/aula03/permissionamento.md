@@ -1,0 +1,1 @@
+# Permissionamento no Linux
