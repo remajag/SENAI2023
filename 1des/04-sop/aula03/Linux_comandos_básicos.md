@@ -4,7 +4,7 @@
   O comando pwd mostra o caminho atual, onde você está.
   sintaxe: $ pwd <enter>
 
-* cd
+* cd <br>
   O comando cd serve para se navegar entre a estrutura de diretórios (pastas) no Linux. Essa estrutura é definida por um caminho a partir do diretório raiz (/)
   sintaxe: $ cd /caminho
   Exemplos de caminhos:
@@ -15,7 +15,7 @@
   .. (diretório anterior)
   ~ (diretório home do usuário atual)
   
-* mkdir
+* mkdir <br>
   O comando mkdir serve para se criar um diretório (pasta)
   sintaxe: $ mkdir dir1
   Outros exemplos e variações:
@@ -26,7 +26,7 @@
   $ mkdir -p /home/lucas/docs/cpf
   $ mkdir -p /documentos/faturas/consorcio/pagas
 
-* ls
+* ls <br>
   O comando ls server para se listar o conteúdo de um diretório, como arquivos e subdiretórios, suas permissões e características como o dono (owner), o tamanho (size) etc.
   sintaxe: $ ls <enter>
   Outros exemplos e variações:
