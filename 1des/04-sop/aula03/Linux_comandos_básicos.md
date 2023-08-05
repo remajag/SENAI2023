@@ -1,5 +1,8 @@
 # Linux Comandos Básicos
 
+## (ENTER)
+  A teclar Enter do teclado padrão. Sempre precisa ser acioanda após os comandos digitados na linha de comando (prompt) que é representada por '$' (para usuários comuns) e '#' (para administradores).
+
 ## pwd <br>
   O comando pwd mostra o caminho atual, onde você está.<br>
   sintaxe: $ pwd  (ENTER)
