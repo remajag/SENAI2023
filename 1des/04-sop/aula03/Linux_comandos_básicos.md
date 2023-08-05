@@ -1,11 +1,11 @@
 # Linux Comandos Básicos
 
-* pwd
+* pwd <br>
   O comando pwd mostra o caminho atual, onde você está.
   sintaxe: $ pwd <enter>
 
 * cd <br>
-  O comando cd serve para se navegar entre a estrutura de diretórios (pastas) no Linux. Essa estrutura é definida por um caminho a partir do diretório raiz (/)
+  O comando cd serve para se navegar entre a estrutura de diretórios (pastas) no Linux. Essa estrutura é definida por um caminho a partir do diretório raiz (/).
   sintaxe: $ cd /caminho
   Exemplos de caminhos:
   /var/tmp
