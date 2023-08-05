@@ -10,7 +10,7 @@
 ## cd <br>
   O comando cd serve para se navegar entre a estrutura de diretórios (pastas) no Linux. Essa estrutura é definida por um caminho a partir do diretório raiz (/). <br>
   sintaxe: $ cd /caminho (ENTER)<br>
-  - Exemplos de caminhos:
+  Exemplos de caminhos:
   /var/tmp <br>
   /tmp/log <br>
   /usr/sbin<br>
@@ -25,14 +25,14 @@
   $ mkdir /tmp/log (ENTER)<br>
   $ mkdir /var/tmp/log (ENTER)<br>
   Observação: A opção -p serve para criar toda uma estrutura de pastas novas de uma única vez:<br>
-  - exemplo:<br>
+  exemplo:<br>
   $ mkdir -p /home/lucas/docs/cpf (ENTER)<br>
   $ mkdir -p /documentos/faturas/consorcio/pagas (ENTER)<br>
 
 ## ls <br>
   O comando ls server para se listar o conteúdo de um diretório, como arquivos e subdiretórios, suas permissões e características como o dono (owner), o tamanho (size) etc.<br>
   sintaxe: $ ls (ENTER)<br>
-  - Outros exemplos e variações:<br>
+  Outros exemplos e variações:<br>
   $ ls -l / (ENTER)<br>
   $ ls -ltr . (ENTER)<br>
   $ ls -R /tmp (ENTER)<br>
