@@ -9,6 +9,9 @@ Apresentado um histórico do inicio da Microinformática com a história do inic
 -IBM PC<br>
 
 -Apple<br>
+O primeiro computador do padrão Apple foi desenvolvido na garagem de casa por Steve Wozniack e com o apoio de Steve Jobs. Abaixo a imagem do Apple I:<br>
+![image](https://github.com/remajag/SENAI2023/assets/121033053/7911dfbb-4da4-4757-ab06-e2e2b3152aec)
+
 
 # História dos Sistemas Operacionais:
 
