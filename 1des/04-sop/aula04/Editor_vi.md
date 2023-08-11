@@ -11,8 +11,8 @@
 |salvar arquivo novo|ESC :w nomedoarquivo|
 |sair sem salvar|ESC :q!|
 |sair salvando|ESC :wq|
-|sair salvando|ESC :wq|
-|sair salvando|ESC :wq|
-|sair salvando|ESC :wq|
+|busca tudo|ESC /palavra|
+|busca anerior|ESC ?palavra|
+|repetir busca próximo| n|
 
 
