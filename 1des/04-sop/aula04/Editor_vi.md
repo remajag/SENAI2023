@@ -9,6 +9,8 @@
 |proxima tela|CTRL+f|
 |tela anterior|CTRL+b|
 |salvar arquivo atual|ESC :w|
+|salvar arquivo e sair|ESC :wq|
+|forçar salvar arquivo e sair|ESC :wq!|
 |salvar arquivo novo|ESC :w nomedoarquivo|
 |insere numeros de linha|ESC :set number|
 |eecução de shell|ESC :!bash|
