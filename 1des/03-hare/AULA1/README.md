@@ -19,7 +19,7 @@ Esse primeiro computador vinha com a linguagem Basic embutida e podia utilizar t
 
 
 
-# História dos Sistemas Operacionais:
+# Sistemas Operacionais:
 
 CP/M <br>
 MacOS<br>
@@ -57,7 +57,7 @@ Linux<br>
 - Placa WIFI<br>
 
 
-# Funcionamento de um Sisema Operacional:
+# Funcionamento de um Sistema Operacional:
 
 Disco de Boot<br>
 Setor de Boot - MBR<br>
