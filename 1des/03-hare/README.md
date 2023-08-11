@@ -52,3 +52,6 @@ Linux<br>
 
 Disco de Boot<br>
 Setor de Boot - MBR<br>
+
+
+![image](https://github.com/remajag/SENAI2023/assets/121033053/bbb060a5-378f-4cb9-ba34-64cfbb9feec6)
