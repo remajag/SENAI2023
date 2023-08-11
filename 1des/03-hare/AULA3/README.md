@@ -7,9 +7,8 @@ O sistema decimal é um sistema de valor posicional, então o valor de cada díg
 
 ![image](https://github.com/remajag/SENAI2023/assets/121033053/94e6c508-fd8a-4ce4-9560-3c3582483e39)
 
-
-
 Figura 1 – Exemplo de número decimal.<BR>
+
 Sabemos que no número 539 o dígito 5 representa 500 ou 5 centenas, o dígito 3 representa 30 ou 3 dezenas e o dígito 9 representa 9 unidades. Essa nomenclatura (centena, dezena, unidade) é dada justamente por causa dos pesos que as potências de 10 fornecem a cada algarismo. No fim, o número formado é a soma do produto do valor de cada dígito pelo seu valor posicional (potência de 10), ou seja, 500+30+9=539.
 
 ## Sistema Binário
@@ -23,9 +22,8 @@ Primeiramente é preciso saber que ao lidar com números binários, normalmente 
 
 ![image](https://github.com/remajag/SENAI2023/assets/121033053/37d6c81c-2d06-4735-a9b8-e6d35349283d)
 
-
-
 Figura 2 – Exemplo de número binário.<BR>
+
 Nesse caso a potência de 2 vai de 20 até 23 e estes são os chamados pesos (da mesma forma que no sistema decimal). Como pode ser visto no exemplo, o bit mais significativo (most significant bit — MSB), ou seja, o que tem maior valor é aquele que está mais à esquerda, já o bit menos significativo (least significant bit — LSB), ou seja, o que tem menor valor é aquele que está mais à direita.
 
 De forma análoga ao sistema decimal, para saber qual o valor que aquele conjunto de algarismos representa basta multiplicar o algarismo pelo seu peso e somar.
@@ -43,9 +41,9 @@ Por fim, o sistema hexadecimal possui 16 símbolos ou dígitos, portanto é de b
 
 ![image](https://github.com/remajag/SENAI2023/assets/121033053/938fc3f2-d12f-43dd-8d8c-f072b567cddd)
 
-
-
 Figura 3 – Exemplo de número hexadecimal.<BR>
+
+
 Sistema Decimal vs Sistema Binário vs Sistema Hexadecimal
 A Tabela 1 mostra as relações entre hexadecimal, decimal e binário. Note que cada dígito hexadecimal é representado por um grupo de quatro bits. Além disso, observe que os dígitos hexa de A até F são equivalentes aos valores decimais de 10 até 15.
 
