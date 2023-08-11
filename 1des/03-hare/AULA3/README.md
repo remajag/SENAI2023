@@ -5,6 +5,9 @@ Começando pelo sistema decimal, este é composto de 10 numerais (ou símbolos):
 
 O sistema decimal é um sistema de valor posicional, então o valor de cada dígito irá depender da posição em que o número se encontra. O que definirá o peso de cada dígito, de acordo com a posição, será uma potência de 10. Para entender isso vamos observar o exemplo da Figura 1.
 
+![image](https://github.com/remajag/SENAI2023/assets/121033053/94e6c508-fd8a-4ce4-9560-3c3582483e39)
+
+
 binário
 Figura 1 – Exemplo de número decimal.
 Sabemos que no número 539 o dígito 5 representa 500 ou 5 centenas, o dígito 3 representa 30 ou 3 dezenas e o dígito 9 representa 9 unidades. Essa nomenclatura (centena, dezena, unidade) é dada justamente por causa dos pesos que as potências de 10 fornecem a cada algarismo. No fim, o número formado é a soma do produto do valor de cada dígito pelo seu valor posicional (potência de 10), ou seja, 500+30+9=539.
@@ -17,6 +20,9 @@ A partir daqui para diferenciar os valores em binário e decimal usaremos a segu
 No sistema binário, o termo dígito binário (binary digit) normalmente é abreviado para o termo bit, o qual vamos passar a usar. Nesse sistema o valor posicional também é válido, então cada bit tem um valor próprio expresso como uma potência de 2. 
 
 Primeiramente é preciso saber que ao lidar com números binários, normalmente estamos restritos a um número específico de bits. Isso varia de acordo com o circuito em que estamos trabalhando, para ilustrar vamos mostrar o exemplo de um número binário de 4 bits.
+
+![image](https://github.com/remajag/SENAI2023/assets/121033053/37d6c81c-2d06-4735-a9b8-e6d35349283d)
+
 
 binário
 Figura 2 – Exemplo de número binário.
@@ -34,6 +40,9 @@ Isso significa que para saber até quanto é possível contar com um número N d
 
 ## Sistema Hexadecimal
 Por fim, o sistema hexadecimal possui 16 símbolos ou dígitos, portanto é de base 16. Seus dígitos incluem de 0 a 9 (com o sistema decimal) junto das letras A, B, C, D, E e F. Como nos demais sistemas, as posições dos dígitos recebem pesos, mas dessa vez estes serão potências de 16.
+
+![image](https://github.com/remajag/SENAI2023/assets/121033053/938fc3f2-d12f-43dd-8d8c-f072b567cddd)
+
 
 binário
 Figura 3 – Exemplo de número hexadecimal.
