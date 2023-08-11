@@ -6,9 +6,16 @@
 | Resultado | Comando
 |--:|--|
 |modo inserção|ESC i|
-|modo comando|ESC :|
+|proxima tela|CTRL+f|
+|tela anterior|CTRL+b|
 |salvar arquivo atual|ESC :w|
 |salvar arquivo novo|ESC :w nomedoarquivo|
+|insere numeros de linha|ESC :set number|
+|eecução de shell|ESC :!bash|
+|remove caracteres à esquerca|ESC x|
+|remove a linha atual|ESC dd|
+|copia a linha atual|ESC yy|
+|cola o que foi copiado|p|
 |sair sem salvar|ESC :q!|
 |sair salvando|ESC :wq|
 |busca tudo|ESC /palavra|
