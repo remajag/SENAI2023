@@ -2,8 +2,9 @@
 
 ## Conhecimentos
 
-Apresentado um histórico do inicio da Microinformática com a história do inicio da Apple e Microsoft.
-Padrões:
+Apresentado um histórico do inicio da Microinformática com a história do inicio da Apple e Microsoft.<br>
+
+##Padrões:<br>
 
 -IBM PC<br>
 
@@ -14,6 +15,7 @@ Padrões:
 CP/M <br>
 MacOS<br>
 DOS<br>
+OS/2<br>
 WINDOWS<br>
 Linux<br>
 
