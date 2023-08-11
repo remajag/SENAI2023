@@ -48,5 +48,5 @@ Linux<br>
 
 # Funcionamento de um Sisema Operacional:
 
-Disco de Boot
-Setor de Boot - MBR
+Disco de Boot<br>
+Setor de Boot - MBR<br>
