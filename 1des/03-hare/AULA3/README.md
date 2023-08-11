@@ -49,10 +49,10 @@ Figura 3 – Exemplo de número hexadecimal.
 Sistema Decimal vs Sistema Binário vs Sistema Hexadecimal
 A Tabela 1 mostra as relações entre hexadecimal, decimal e binário. Note que cada dígito hexadecimal é representado por um grupo de quatro bits. Além disso, observe que os dígitos hexa de A até F são equivalentes aos valores decimais de 10 até 15.
 
-Título  | Título |Titulo
+Decimal  | Hexadecimal |Binário
 ------- | --------|-------
-Texto   | Texto|texto
-Texto   | Texto|texto
+0  | 0|0000
+1  | 1|0001
 
 Decimal	Hexadecimal	Binário
 0	0	0000
