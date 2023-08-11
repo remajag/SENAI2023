@@ -1,4 +1,4 @@
-# Aula02 - Hardware
+# Aula01 - Hardware
 
 ## Conhecimentos
 
