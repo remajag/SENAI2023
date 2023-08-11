@@ -5,45 +5,45 @@
 Apresentado um histórico do inicio da Microinformática com a história do inicio da Apple e Microsoft.
 Padrões:
 
--IBM PC
+-IBM PC<br>
 
--Apple
+-Apple<br>
 
 # História dos Sistemas Operacionais:
 
-CP/M
-MacOS
-DOS
-WINDOWS
-Linux
+CP/M <br>
+MacOS<br>
+DOS<br>
+WINDOWS<br>
+Linux<br>
 
 
 
 # Evolução dos Processadores:
-8 BITS
-16 BITS 
-32 BITS
-64 BITS
+8 BITS<br>
+16 BITS <br>
+32 BITS <br>
+64 BITS <br>
 
 
 
 # Periféricos de Entrada e de Saida:
 
 ## Entrada
-- Mouse
-- Teclado
-- Mesa digitalizadora
-- Microfone
-- Câmera
+- Mouse<br>
+- Teclado<br>
+- Mesa digitalizadora<br>
+- Microfone<br>
+- Câmera<br>
 
 # Saída:
-- Monitor
-- Impressora
+- Monitor<br>
+- Impressora<br>
 
 # Periféricos de Entrada e Saida
 
-- Placa de Rede
-- Placa WIFI
+- Placa de Rede<br>
+- Placa WIFI<br>
 
 
 # Funcionamento de um Sisema Operacional:
